@@ -1,0 +1,32 @@
+  372  git init
+  373  git remote add origin https://github.com/FridaMercado/Checkpoint-FridaMercado.git
+  374  git remote -v
+  375  touch main.js index.html
+  376  git add .
+  377  git commit -m "commit 01 de FridaMercado"
+  378  git push origin main
+  379  git branch feature
+  380  pwd
+  381  git status
+  382  git branch
+  383  git branch checkout feature
+  384  git checkout branch feature
+  385  git checkout -b
+  386  git checkout -b feature
+  387  git checkout feature
+  388  mkdir Hardware Software SeguridadInformatica
+  389  touch Hardware/resumen.txt
+  390  touch Software/resumen.txt
+  391  touch SeguridadInformatica/resumen.txt
+  392  git add .
+  393  git commit -m "commit 02 de FridaMercado"
+  394  git push
+  395  git push origin feature
+  396  git checkout main
+  397  mv main.js resumenHardware.txt
+  398  mv index.html resumenSoftware.txt
+  399  touch comandos.txt
+  400  history
+
+Frida Mercado@DESKTOP-PR73HOU MINGW64 ~/Documents/CTD Digital House/INTRO A INFO/Checkpoint-FridaMercado (main)
+$
